@@ -277,7 +277,7 @@ nav .fas{
     #header{
         background-image: none;
     }
-    .header-text{
+    .header-text p{
         margin-top: 100%;
         font-size: 16px;
     }
